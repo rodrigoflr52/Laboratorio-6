@@ -14,8 +14,8 @@ label{
 }
 .img-wrapper{
  display: table;
- height: 140px;
- width: 140px;
+ height: 350px;
+ width: 350px;
  table-layout: fixed;
  float: left;
  padding-left: 6px;
@@ -37,7 +37,7 @@ label{
    display:block;
    margin: 0 auto;
    max-width: 100%;
-   max-height: 40px;
+   max-height: 300px;
    border-radius: 20px;
 }
 button{
